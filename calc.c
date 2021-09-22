@@ -9,8 +9,6 @@ PROJETO: CALCULADORA SIMPLES
 #include <stdlib.h>
 #include <locale.h>
 
-
-
 int main()
 {
     
