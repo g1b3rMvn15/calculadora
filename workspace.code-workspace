@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "atividades_fiap_fase3",
+			"path": "..\\..\\..\\FASE 3 - SERVIÇOS SOB ATAQUE\\Nova pasta\\atividades_fiap_fase3"
+		},
+		{
+			"path": "D:\\pythontools"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\gmuniz\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+		"git.ignoreLimitWarning": true
+	}
+}
